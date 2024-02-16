@@ -1,5 +1,3 @@
-#MBot Hardware Resources
+# MBot Hardware Resources
 
-- [MBot Omni with Raspberry Pi CAD Files](https://a360.co/49xFmPN)
-- [MBot Classic with Jetson Nano CAD Files](https://a360.co/3FDWpSI)
-
+Schematics, Gerbers & EasyEDA files for all PCBs associated with the MBot Ecosystem
